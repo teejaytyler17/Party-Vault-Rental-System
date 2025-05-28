@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, ttk
 import sqlite3
-import json
+import json # For JSON serialization
 import datetime
 import re
 from PIL import Image, ImageTk  # For logo resizing
